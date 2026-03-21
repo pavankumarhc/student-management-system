@@ -1,12 +1,25 @@
-# student-management-system
-student management system using python and SQLite
-This project is built using Python and SQLite.
+# 🎓 Student Management System
 
-Features:
+## 📌 Description
+A simple Student Management System built using Python and SQLite. It allows users to manage student records efficiently through basic operations.
+
+## 🚀 Features
 - Add Student
 - View Students
 - Delete Student
 
-Technology Used:
+## 🛠️ Technologies Used
 - Python
 - SQLite
+
+## ▶️ How to Run
+```bash
+python main.py
+## 🎯 Output
+- Add student records
+- View all students
+- Delete student details
+
+
+## 👨‍💻 Author
+Pavan Kumar H C
